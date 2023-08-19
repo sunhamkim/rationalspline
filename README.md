@@ -2,6 +2,8 @@
 A quick MATLAB snippet to implement shape-preserving rational spline Hermite interpolation.[(Cai and Judd, Economic Letters 2012)](https://www.sciencedirect.com/science/article/pii/S0165176512002558)
 Requires MATLAB 2015a or later. (dependency: `discretize`)
 
+[![View Shape-preserving rational spline Hermite interpolation on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/134042-shape-preserving-rational-spline-hermite-interpolation)
+
 ## Example
 ```
 x = linspace(0.1,3,30).';   z = linspace(0.1,3,300).';
