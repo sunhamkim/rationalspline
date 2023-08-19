@@ -1,5 +1,6 @@
 # rationalspline.m
 A quick MATLAB snippet to implement shape-preserving rational spline Hermite interpolation.[(Cai and Judd, Economic Letters 2012)](https://www.sciencedirect.com/science/article/pii/S0165176512002558)
+Requires MATLAB 2015a or later. (dependency: `discretize`)
 
 ## Example
 ```
